@@ -1,6 +1,6 @@
 class Doctor 
   
-  def attr_reader :name 
+  attr_reader :name 
   
   @@all = []
     
